@@ -3,13 +3,13 @@
 Common functions implemented in multiple programming languages
 
 
-|             |    [Python](python/)    |         [C](c/)         | [JavaScript](javascript/) |      [Rust](rust/)      |        [Go](go/)        |
-| ----------- | :---------------------: | :---------------------: | :-----------------------: | :---------------------: | :---------------------: |
-| Hello World | [:heavy_check_mark:][1] | [:heavy_check_mark:][2] |  [:heavy_check_mark:][3]  | [:heavy_check_mark:][4] | [:heavy_check_mark:][5] |
-| Input       |                         |                         |                           |                         |                         |
-|             |                         |                         |                           |                         |                         |
-|             |                         |                         |                           |                         |                         |
-|             |                         |                         |                           |                         |                         |
+|             | [Python](python/) | [C](c/) | [JavaScript](javascript/) | [Rust](rust/) | [Go](go/) | [Julia](julia/) |
+| ----------- | :---------------: | :-----: | :-----------------------: | :-----------: | :-------: | :-------------: |
+| Hello World |      [✔][1]       | [✔][2]  |          [✔][3]           |    [✔][4]     |  [✔][5]   |     [✔][6]      |
+| Input       |                   |         |                           |               |           |                 |
+|             |                   |         |                           |               |           |                 |
+|             |                   |         |                           |               |           |                 |
+|             |                   |         |                           |               |           |                 |
 
 
 [1]: python/hello_world.py
@@ -17,3 +17,4 @@ Common functions implemented in multiple programming languages
 [3]: javascript/hello_world.js
 [4]: rust/hello_world.rs
 [5]: go/hello_world.go
+[6]: rust/hello_world.jl
