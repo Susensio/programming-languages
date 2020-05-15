@@ -1,6 +1,6 @@
 # C
 
-Compiled, low-level, general-purpose programming language. 
+Compiled, low-level, statically typed programming language. 
 
 
 ## Install compiler
